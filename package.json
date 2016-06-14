@@ -1,0 +1,13 @@
+{
+  "name": "slimer-node-api",
+  "main": "slimer_server.js",
+  "dependencies": {
+    "body-parser": "~1.0.1",
+    "express": "~4.0.0",
+    "node-phantom-simple": "~2.2.4",
+    "slimer": "^0.9.6"
+  },
+  "devDependencies": {
+    "slimer": "^0.9.6"
+  }
+}
